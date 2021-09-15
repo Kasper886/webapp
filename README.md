@@ -10,4 +10,4 @@ There are the steps required to get it working on linux.
 1 Install OS dependencies
 ============================
 Update and upgrade repo (Debian/Ubuntu)
-    > sudo apt-get update && apt-get upgrade -y
+> sudo apt-get update && apt-get upgrade -y
