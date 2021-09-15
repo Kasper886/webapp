@@ -7,7 +7,7 @@ There are the steps required to get it working on linux.
 * Deploy the application source code
 * Start the WEB Server
 
-1. Install OS dependencies
+1.Install OS dependencies
 =============================
 Update and upgrade repo (Debian/Ubuntu)
     sudo apt-get update && apt-get upgrade -y
