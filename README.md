@@ -1,2 +1,2 @@
-Flask Web Applivation
+Flask Web Application
 ========================
